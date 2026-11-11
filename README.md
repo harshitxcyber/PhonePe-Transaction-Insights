@@ -5,7 +5,7 @@ transaction performance and user behaviour across 2024. The dashboard
 brings key transaction KPIs, service-level performance, payment
 outcomes, failure reasons, and customer demographics into one view.
 
-![PhonePe Transaction Insights Dashboard](dashboard.png)
+![PhonePe Transaction Insights Dashboard](Dashboard.png)
 
 > **Dataset:** 3,00,000 transaction records\
 > **Reporting period:** January--December 2024\
